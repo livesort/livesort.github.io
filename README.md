@@ -1,2 +1,2 @@
-# livesort.github.io
+# LiveSort
 React App
