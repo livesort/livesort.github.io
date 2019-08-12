@@ -1,2 +1,0 @@
-# LiveSort
-React App
